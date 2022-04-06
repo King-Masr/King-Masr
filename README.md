@@ -3,5 +3,5 @@
   <h2>Full Stack Developer</h2>
 </div>
 <div id="particles-js"></div>
-<script src="particles.js"></script>
-<script src="app.js"></script>
+[particles](https://github.com/King-Masr/King-Masr/blob/main/particles.js)
+[app](https://github.com/King-Masr/King-Masr/blob/main/app.js)
