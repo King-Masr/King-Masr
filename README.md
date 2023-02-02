@@ -1,4 +1,4 @@
-<div id="info">
-  <h1>Aly Ahmed Aly</h1>
-  <h2>Full Stack Developer</h2>
-</div>
+# Aly Ahmed Aly
+## Full Stack Developer
+#### I have experience in PHP for 6 years.
+#### My Skills: HTML, CSS, JavaScript, PHP, MySQL, Laravel, Ajax, JSON, and more...
